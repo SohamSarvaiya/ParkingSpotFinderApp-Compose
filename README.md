@@ -12,22 +12,18 @@ Displays parking spots dynamically on a styled Google Map.
 Provides real-time updates for the parking spot's location.
 
 Offline Support:
-
 Uses Room Database to store parking spot latitude and longitude for offline access.
 
 
 MVVM Architecture:
-
 Ensures clean code separation with ViewModel, Repository, and Room Database layers.
 
 
 Jetpack Compose UI:
-
 Fully built using Jetpack Compose for a modern and reactive UI experience.
 
 
 Dependency Injection:
-
 Utilizes Hilt for dependency management to keep the code modular and testable.
 
 
